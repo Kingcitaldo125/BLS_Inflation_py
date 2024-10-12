@@ -1,2 +1,2 @@
-# BLS_Inflation_py
-BLS' Inflation Calculator API written with Python
+# BLS Inflation Python API
+API for the [BLS' Inflation Calculator](https://data.bls.gov/cgi-bin/cpicalc.pl) written with Python.
